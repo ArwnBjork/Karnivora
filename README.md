@@ -1,0 +1,2 @@
+# Karnivora
+Tugas Inheritance
